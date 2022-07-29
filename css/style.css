@@ -301,3 +301,60 @@ h2 {
   text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
   cursor: pointer;
 }
+
+.first_web {
+  height: 433px;
+}
+
+.first_web .first_web_img {
+  display: block;
+  margin: 0 auto;
+}
+
+.first_web .first_web_text {
+  margin-top: 36px;
+  font-weight: 400;
+  font-size: 30px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #252525;
+}
+
+.first_web .first_web_big {
+  margin-top: 30px;
+  font-weight: 900;
+  font-size: 36px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #299cbd;
+}
+
+.first_web .first_web_text2 {
+  margin-top: 24px;
+  font-weight: 400;
+  font-size: 23px;
+  align-items: center;
+  text-align: center;
+  color: #4a4a4a;
+}
+
+.black {
+  height: 169px;
+  background: #1a1a1a;
+  padding-top: 57px;
+}
+
+.black .black_support {
+  display: block;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 21px;
+  align-items: center;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #888888;
+}
