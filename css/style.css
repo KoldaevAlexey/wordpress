@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+html {
+  font-family: "Roboto", sans-serif;
+}
+
 .promo {
   height: 800px;
   background: url("../img/bg/main_bg.png") center center/cover no-repeat;
@@ -45,7 +49,7 @@ h2 {
 .title {
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 900;
+  font-weight: 300;
   font-size: 41px;
   align-items: center;
   text-align: center;
